@@ -4,24 +4,13 @@ This repository contains files that I needed to include in my final submission f
 
 ## Included Files
 
-- ``:
-- ``:
-- ``:
-- ``:
-- ``:
-- ``:
-- ``:
-- ``:
-- ``:
-- ``:
-- ``:
-- ``:
-- ``:
-- ``:
-- ``:
-- ``:
-- ``:
+- `api_data_collection.ipynb`:
+- `eda_sql.ipynb`:
+- `eda_viz.ipynb`:
+- `folium_maps.ipynb`:
+- `spacex_dash_app.py`:
+- `model_predictions.ipynb`:
 
 ## Notes
 
-[put any notes here]
+- No data files have been included, but can be produced using the above files included.
